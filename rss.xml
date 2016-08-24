@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Family Overseas]]></title>
+        <description><![CDATA[A Family Overseas]]></description>
+        <link>https://thegrid.ai/a-family-overseas/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Aug 2016 01:20:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-family-overseas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Memrise - Learn something new every day]]></title>
+            <description><![CDATA[<article><h1>Memrise - Learn something new every day</h1><p>The Memrise community uses images and science to make learning easy and fun. Learn a language. Learn anything.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccb43b2b370aa1efca03e55647c06b2e/noop.png?input=https%3A%2F%2Fd107cgb5lgj7br.cloudfront.net%2Fimg%2Flogo%2Ffacebook%402x.png"></article>]]></description>
+            <link>https://www.memrise.com/</link>
+            <guid isPermaLink="false">ed52e6d9-4d86-4c3f-8c1c-d644b0c9f50d</guid>
+            <pubDate>Wed, 24 Aug 2016 01:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn a language for free]]></title>
+            <description><![CDATA[<article><h1>Learn a language for free</h1><p>Duolingo is the world's most popular way to learn a language. It's 100% free, fun and science-based. Practice online on duolingo.com or on the apps!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc3383357b771b127229ecf3f1bfc133/noop.png?input=https%3A%2F%2Fwww.duolingo.com%2Fimages%2Ffacebook%2Fduo200.png"></article>]]></description>
+            <link>https://www.duolingo.com/</link>
+            <guid isPermaLink="false">596e7c55-547a-43d0-8ece-7cdc992f709f</guid>
+            <pubDate>Wed, 24 Aug 2016 01:07:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
