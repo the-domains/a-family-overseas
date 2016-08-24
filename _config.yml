@@ -1,4 +1,3 @@
-layout_spectrum: 0.999733516946435
 typography_spectrum: 0.16809549904428422
 color:
   brandStrength: 0.9525441802106798
@@ -11,4 +10,6 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.999733516946435
 name: A Family Overseas
+title: A Family Overseas
